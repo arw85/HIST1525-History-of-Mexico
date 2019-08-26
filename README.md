@@ -24,3 +24,4 @@ As an academic and professional in an increasingly digital world it is important
 *Please add your name, and GitHub handle below*  
 _**Example:** Dr. Pilar Herr, @drherr_  
 Rebecca Parker, @RJP43 - **technical assistant** 
+Alyssia Williams, @arw85, **Lyss** 
